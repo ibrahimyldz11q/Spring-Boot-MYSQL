@@ -1,2 +1,2 @@
-# Spring-Boot-Mongodb
-Spring Boot ile Temel Mongodb İşlemleri
+# Spring-Boot-MYSQL
+Spring Boot ile Temel MYSQL İşlemleri
